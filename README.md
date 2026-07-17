@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🐍 Snake Cyber Game 🐍
+# Snake Cyber Game
+# 🐍
 
 ### A Modern Neon Cyber Snake Experience
 
